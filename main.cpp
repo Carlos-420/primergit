@@ -5,6 +5,7 @@ int main(){
 	cout<<"Fuck this shit"<<endl;
 	cout<<"Blyat"<<endl;
 	cout<<"*N word*"<<endl;
-	coutn<<"xd"<<endl;
+	cout<<"xd"<<endl;
+	cout<<"ae86"<<endl;
 	return 0;
 }
